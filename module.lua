@@ -1,4 +1,4 @@
-shared.NarutoFunctions = nil
+shared.NarutoFunctions = {}
 
 local Players = game.Players
 local LocalPlayer = Players.LocalPlayer
