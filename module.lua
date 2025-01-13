@@ -65,7 +65,7 @@ function shared.NarutoFunctions.CarSpeed(speed, method)
     
     if method == "Speed" then
     
-      local VehicleSeat = TopSpeed:FindFirstChild("TopSpeed")
+      local VehicleSeat = VehicleSeat:FindFirstChild("TopSpeed")
       
       if VehicleSeat then
         
