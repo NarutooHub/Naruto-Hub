@@ -33,7 +33,6 @@ function CheckYouInTheCar(callback)
       if callback then
         callback(Car, VehicleSeat)
       end
-      warn("Encontrei")
       return true
     end
   end
